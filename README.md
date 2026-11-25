@@ -14,4 +14,4 @@ The work code belongs to my employer and stays private. The case studies explain
 
 ### Tools
 
-Python · SQL Server · GitLab CI/CD · Docker · pytest · Playwright · AWS · Splunk · BMC Remedy · Power Platform
+Python · SQL Server · GitLab CI/CD · Docker · pytest · Playwright · AWS · BMC Remedy · Power Platform
